@@ -167,3 +167,14 @@ input::-webkit-inner-spin-button {
 .list li.plus {
   color: green;
 }
+
+p.credit {
+  font-weight: 600;
+  position: fixed;
+  top: 95%;
+  left: 50%;
+  bottom: 0;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+}
